@@ -1,5 +1,4 @@
-
-
+```cpp
 #include <iostream>
 #include <stack>
 
@@ -20,3 +19,12 @@ int main(){
       s.pop();
    }
 }
+```
+
+[[SUSU 2 Course/Lesson_2. 02.13.2024/task_1/Condition]]
+
+
+
+
+
+

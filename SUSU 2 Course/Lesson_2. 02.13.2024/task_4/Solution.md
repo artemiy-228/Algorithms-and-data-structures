@@ -1,9 +1,8 @@
+```cpp
 #include <iostream>
 #include <queue>
 
-
 using namespace std;
-
 
 int main() {
 	queue<int> a, b;
@@ -30,3 +29,5 @@ int main() {
 	}
 	cout << counter;
 }
+```
+[[Condition]]

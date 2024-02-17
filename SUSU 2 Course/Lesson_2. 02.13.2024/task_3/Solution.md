@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 #include <stack>
 #include <string>
@@ -23,12 +24,11 @@ public:
       b.pop();
    }
    
-   const T& front() const{
+   const T& front(){
       if(b.empty()) move();
       return b.top();
    }
 };
 
-int main(){
-   return 0;
-}
+```
+[[Condition]]

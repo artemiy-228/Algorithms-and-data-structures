@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 #include <stack>
 #include <string>
@@ -22,3 +23,5 @@ bool correct(string s) {
 	}
 	return st.empty();
 }
+```
+[[Condition]]
