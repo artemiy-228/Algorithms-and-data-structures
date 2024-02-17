@@ -1,0 +1,11 @@
+#
+!solution.cpp cctype cerrno clocale cstdint cstdio cstdlib ctype.h cwchar cwctype deque errno.h exception initializer_list ios iosfwd iostream istream limits limits.h locale.h new ostream signal.h stack stddef.h stdexcept stdint.h stdio.h stdlib.h streambuf string string_view system_error type_traits typeinfo utility wchar.h wctype.h #<#>
+Queue _type_ #<solution.cpp>
+main() -> int #<solution.cpp>
+	Queue:%a : stack #<solution.cpp>
+	Queue:%b : stack #<solution.cpp>
+	Queue:%move() -> void #<solution.cpp>
+	Queue::size() -> int #<solution.cpp>
+	Queue::push(T t) -> void #<solution.cpp>
+	Queue::pop() -> void #<solution.cpp>
+	Queue=:front() -> const T& #<solution.cpp>
