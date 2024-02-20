@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Task C.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Task C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Task C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md"
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Task C.md"
               }
             }
           },
@@ -205,8 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4a7710187d68916",
+  "active": "b95025bbe990baec",
   "lastOpenFiles": [
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Lesson_3. 02.20.2024.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Task C.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_H/Task B.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_H/Solution.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_H/Condition.md",
@@ -222,13 +227,8 @@
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_D/Task B.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_D/Solution.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_D/Condition.md",
-    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Task B.md",
-    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Solution.md",
-    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Condition.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Task B.md",
-    "SUSU 2 Course/Lesson_3. 02.20.2024/Lesson_3. 02.20.2024.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Condition.md",
-    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A/Solution.md",
     "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A/Condition.md",
     "SUSU 2 Course/Lesson_2. 02.13.2024/task_1/Task 1.md",
