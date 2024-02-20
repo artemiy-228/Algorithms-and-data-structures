@@ -25,20 +25,52 @@
             "id": "5527b5ad266f5655",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A/Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10f66c1d04826646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A/Condition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b95025bbe990baec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "9a7126e76b6f7f4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "STL/Vector_ENG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"SUSU 2 Course/Lesson_3. 02.20.2024/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md"
+              }
             }
           },
           {
@@ -169,46 +205,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a7126e76b6f7f4b",
+  "active": "c4a7710187d68916",
   "lastOpenFiles": [
-    "SUSU 2 Course/SUSU.md",
-    "SUSU 2 Course/Lesson_3. 02.20.2024.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/Lesson_2 02.13.2024.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_3/Task 3.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_2/Task 2.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_4/Task 4.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_4/Solution.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_4/Condition.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_5/Task 5.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_5/Solution.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_5/Condition.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_3/Solution.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_3/Condition.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_1/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_H/Task B.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_H/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_H/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_G/Task B.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_G/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_G/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_F/Task B.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_F/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_F/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_E/Task B.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_E/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_E/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_D/Task B.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_D/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_D/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Task B.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Task B.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Lesson_3. 02.20.2024.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Condition.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A/Solution.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A/Condition.md",
     "SUSU 2 Course/Lesson_2. 02.13.2024/task_1/Task 1.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_3/Condition3_1.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_2/Condition.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_2/Solution.md",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_1/Condition.md",
-    "SUSU 2 Course",
-    "STL/STL.md",
-    "STL/Deque_ENG.md",
-    "STL/Deque_RUS.md",
-    "STL/Stack_RUS.md",
-    "STL/Vector_ENG.md",
-    "STL/Vector_RUS.md",
-    "STL/Stack_ENG.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A/Task A.md",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_H",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_I",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_G",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_F",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_E",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_D",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_C",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_B",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A - Copy (2) - Copy",
+    "SUSU 2 Course/Lesson_3. 02.20.2024/Task_A - Copy - Copy",
     "Untitled.canvas",
     "STL/img.png",
-    "STL/Untitled.canvas",
-    "STL",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_5/solution.cpp",
-    "task_5/New Text Document.txt",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_5",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_4/solution.cpp",
-    "task_4/New Text Document.txt",
-    "task_3/New Text Document.txt",
-    "SUSU 2 Course/Lesson_2. 02.13.2024/task_4"
+    "STL/Untitled.canvas"
   ]
 }
